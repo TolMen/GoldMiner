@@ -48,6 +48,7 @@ Quelques idées d'amélioration : <br>
 <br>
 ## License
 
-This project is licensed under the MIT License. View the file [LICENSE](LICENSE) for more details.
+Ce projet est sous licence MIT. <br>
+Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
-Feel free to contact me with any questions or contributions. Enjoy exploring the project!
+N'hésitez pas à me contacter pour toute question ou contribution. 
