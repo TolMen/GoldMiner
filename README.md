@@ -1,6 +1,8 @@
 
 # GoldMiner
 
+> **Ce projet a été réalisé dans le cadre de mon apprentissage pour le BTS SIO.**
+
 **GoldMiner** est un petit jeu de console en Java dans lequel le joueur doit explorer un plateau et creuser dans différentes cases pour trouver des pépites d’or. <br><br>
 Le but du jeu est de collecter toutes les pépites cachées sur le plateau en un minimum de tentatives. <br>
 Chaque tour, le joueur indique les coordonnées d’une case où creuser, avec des indices visuels pour savoir s'il a déjà exploré certaines cases.
